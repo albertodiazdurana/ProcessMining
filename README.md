@@ -2,13 +2,16 @@
 The following exercise will guide you through a typical transformation and data analysis to prepare data from an IT system for process mining. 
 The description is availabe in the file: Process event data for analysis.pdf
 
+You can have a quick view of the results in this html file: ADD-Preprocess event data for analysis.html
+
 ## <a name="info">General info</a>
 Repository Structure
 
 - 'ADD-Preprocess event data for analysis.ipynb' is the file you will be running in your Jupyter Notebook
+- 'ADD-Preprocess event data for analysis.html' is an html file with the executed code and results
 - 'Example MIX TYPES.txt' is the data you will be importing in the Jupyter Notebook
 - 'packagesADD.yml' are the list of requirements you will be installing in [GetStarted](#req) to be able to run the Jupyter Notebook 
-- 'Process event data for analysis.pdf' is the document with the description of the excercise.
+- 'Process event data for analysis.pdf' is the document with the description of the excercise
 - The folder '_images' containes the .png files generated in the notebook
 
 
