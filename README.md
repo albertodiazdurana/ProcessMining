@@ -20,12 +20,24 @@ You will want to have Anaconda installed. More information here: https://docs.an
 
 The environment has been saved to the file: packagesADD.yml
 
-This file may be used to create an environment using:
+1. Go to the directory in the commandline where you have placed this repo.
+
+2. This file may be used to create an environment using:
 -------------------
 $ conda create --file packagesADD.yml
 -------------------
 
 This environment was created using the platform: win-64 
+
+3. Activate the enviroment with:
+------------------
+$ conda activate envADD
+------------------
+
+4. Open Jupyter notebook from your envADD active environment through your commandline with:
+------------------
+$ jupyter notebook
+------------------
 
 ### Run on local machine
 
