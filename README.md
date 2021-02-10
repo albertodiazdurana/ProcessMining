@@ -24,7 +24,7 @@ The environment has been saved to the file: packagesADD.yml
 
 2. This file may be used to create an environment using:
 -------------------
-$ conda create --file packagesADD.yml
+$ conda env create --file packagesADD.yml
 -------------------
 
 This environment was created using the platform: win-64 
